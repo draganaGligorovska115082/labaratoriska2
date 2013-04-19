@@ -1,0 +1,12 @@
+https://www.googleapis.com/books/v1/volumes?q=harry+potter&callback=handleResponse<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToDoList</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="addTodoItem">Add Todo Item</string>
+    <string name="download_title">Downloading</string>
+    <string name="download_description">Downloading ToDo items</string>
+    <string name="all_todo_items">https://www.googleapis.com/books/v1/volumes?q=harry+potter&amp;amp;callback=handleResponse</string>
+
+</resources>
